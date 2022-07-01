@@ -7,7 +7,7 @@ Annie R Bice, Qingli Xiao, Justin Kong, Ping Yan, Zachary Pollack Rosenthal, And
 Please make sure to add the repository folder to your MATLAB path. All scripts run on MATLAB 2021a.
 
 Inputs:
-- **excelfile**: Database file with list of mice/runs and the associated experiment parameters (see Example.xlsx)
+- **excelfile**: Database file with list of mice/runs and the associated experiment parameters.
 - **rows**: row number(s) within the excel file corresponding to the mice to be analyzed
 > Raw data needs to be in .tif format and the dimensions of the data need to be pixels(Y,X) x frames (ex. 128 x 128 x 1000). This processing code is also compatible with binary data.
 
@@ -17,4 +17,7 @@ Outputs:
 > *xform_datahb( : , : , 1 , :)* = change in concentration of oxygenated hemoglobin
 
 > *xform_datahb( : , : , 2 , :)* = change in concentration of deoxygenated hemoglobin
+
+
+Please contact the Bauer lab if you have any questions: aqbauer@wustl.edu
 
