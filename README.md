@@ -13,6 +13,8 @@ Inputs:
 
 Outputs:
 - **xform_datahb**: contains information on the changes in concentrations of oxygenated and deoxygenated hemoglobin
--- *xform_datahb( : , : , 1 , :)* = change in concentration of oxygenated hemoglobin
--- *xform_datahb( : , : , 2 , :)* = change in concentration of deoxygenated hemoglobin
+
+> *xform_datahb( : , : , 1 , :)* = change in concentration of oxygenated hemoglobin
+
+> *xform_datahb( : , : , 2 , :)* = change in concentration of deoxygenated hemoglobin
 
