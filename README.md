@@ -16,7 +16,3 @@ Outputs:
 -- *xform_datahb( : , : , 1 , :)* = change in concentration of oxygenated hemoglobin
 -- *xform_datahb( : , : , 2 , :)* = change in concentration of deoxygenated hemoglobin
 
-Figures:
-- Peak map during the stimulation
-- Time trace of the activation region
-
