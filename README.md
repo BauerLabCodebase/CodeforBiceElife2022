@@ -4,7 +4,7 @@ Annie R Bice, Qingli Xiao, Justin Kong, Ping Yan, Zachary Pollack Rosenthal, And
 
 
 ### Run ProcessQCandXFormOISDat.m
-All scripts run on MATLAB 2021a.
+Please make sure to add the repository folder to your MATLAB path. All scripts run on MATLAB 2021a.
 
 Inputs:
 - **excelfile**: Database file with list of mice/runs and the associated experiment parameters (see Example.xlsx)
